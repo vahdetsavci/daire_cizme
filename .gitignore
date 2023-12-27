@@ -135,3 +135,6 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+
+# class-diagram
+daire_cizme\class-diagram\daire_cizme.drawio
