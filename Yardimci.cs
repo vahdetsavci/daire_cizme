@@ -16,7 +16,7 @@ class Yardimci
         }
         catch(FormatException) // int olmayan değer hatası
         {
-            Hata("Herhangi bir sayı girmediniz!");
+            Hata("Herhangi bir tam sayı girmediniz!");
         }
         catch (Exception)      // Pozitif olmayan değer girişi hatası
         {
